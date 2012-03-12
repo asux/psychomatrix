@@ -19,6 +19,7 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
 
   s.add_runtime_dependency "rspec"
+  s.add_runtime_dependency "simplecov"
   s.add_runtime_dependency "yard"
   s.add_runtime_dependency "redcarpet"
 end

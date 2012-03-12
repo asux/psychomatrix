@@ -2,5 +2,6 @@
 .bundle
 Gemfile.lock
 pkg/*
-doc/*
+doc
 .yardoc
+coverage
